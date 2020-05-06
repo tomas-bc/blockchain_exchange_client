@@ -20,7 +20,7 @@ Implemented features:
 4. Create market, and limit orders
     
 5. Get the state of an order
-    -client.orderStore keeps updated status on orders, examples to find status in client
+    - client.orderStore keeps updated status on orders, examples to find status in client
     
 6. Cancel an order
 
