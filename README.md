@@ -2,7 +2,7 @@
 
 Python Client for Blockchain Exchange API (https://exchange.blockchain.com/api/#introduction).
 
-You need [API keys] (https://exchange.blockchain.com/api/#to-get-started) for private functions of the API (trading).
+You need [API keys](https://exchange.blockchain.com/api/#to-get-started) for private functions of the API (trading).
 
 Implemented features:
 
