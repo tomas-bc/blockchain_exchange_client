@@ -1,4 +1,4 @@
-# Sample Blockchain Exchange Client with simple bot
+# Blockchain Exchange Client with simple bot
 
 Python Client for Blockchain Exchange API (https://exchange.blockchain.com/api/#introduction).
 
