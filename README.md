@@ -10,12 +10,12 @@ Implemented features:
     - use `client.balances` for your latest balances
     
 2. Subscribe to market data
-    -`client.prices` latest prices update
-    -`client.orderbook` latest orderbook updated snapshot
-    -`client.last_trade` last public trade
+    - `client.prices` latest prices update
+    - `client.orderbook` latest orderbook updated snapshot
+    - `client.last_trade` last public trade
     
 3. Subscribe to symbol reference data
-    -`client.symbols` reference infromation for exchange symbols
+    - `client.symbols` reference infromation for exchange symbols
 
 4. Create market, and limit orders
     
