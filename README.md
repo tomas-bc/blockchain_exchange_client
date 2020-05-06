@@ -7,20 +7,20 @@ You need [API keys] (https://exchange.blockchain.com/api/#to-get-started) for pr
 Implemented features:
 
 1. Subscribe to balances
-    use `client.balances` for your latest balances
+    - use `client.balances` for your latest balances
     
 2. Subscribe to market data
-    `client.prices` latest prices update
-    `client.orderbook` latest orderbook updated snapshot
-    `client.last_trade` last public trade
+    -`client.prices` latest prices update
+    -`client.orderbook` latest orderbook updated snapshot
+    -`client.last_trade` last public trade
     
 3. Subscribe to symbol reference data
-    `client.symbols` reference infromation for exchange symbols
+    -`client.symbols` reference infromation for exchange symbols
 
 4. Create market, and limit orders
     
 5. Get the state of an order
-    client.orderStore keeps updated status on orders, examples to find status in client
+    -client.orderStore keeps updated status on orders, examples to find status in client
     
 6. Cancel an order
 
